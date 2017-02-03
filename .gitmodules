@@ -1,3 +1,12 @@
 [submodule "main"]
 	path = main
 	url = https://github.com/jfgbr/class-loader-main.git
+[submodule "util"]
+	path = util
+	url = https://github.com/jfgbr/class-loader-util.git
+[submodule "test-one"]
+	path = test-one
+	url = https://github.com/jfgbr/class-loader-test-one.git
+[submodule "test-two"]
+	path = test-two
+	url = https://github.com/jfgbr/class-loader-test-two.git
